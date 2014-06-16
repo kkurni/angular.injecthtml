@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJS.InjectHTML", "AngularJS.InjectHTML\AngularJS.InjectHTML.csproj", "{80F61C50-A6D6-43A7-8729-A96FD14A3659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJS.InjectHTML.Tests", "AngularJS.InjectHTML.Tests\AngularJS.InjectHTML.Tests.csproj", "{944E655A-7CB2-43D9-812B-D9014FCB45BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80F61C50-A6D6-43A7-8729-A96FD14A3659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F61C50-A6D6-43A7-8729-A96FD14A3659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F61C50-A6D6-43A7-8729-A96FD14A3659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F61C50-A6D6-43A7-8729-A96FD14A3659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944E655A-7CB2-43D9-812B-D9014FCB45BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944E655A-7CB2-43D9-812B-D9014FCB45BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944E655A-7CB2-43D9-812B-D9014FCB45BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944E655A-7CB2-43D9-812B-D9014FCB45BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
